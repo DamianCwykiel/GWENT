@@ -1,1 +1,2 @@
-# GWENT #GWENT CARD GAME INSPIRED ON//https://www.playgwent.com/pl/join//#
+# GWENT #GWENT CARD GAME INSPIRED BY//https://www.playgwent.com/pl/join//#
+ https://damiancwykiel.github.io/GWENT/
