@@ -1,12 +1,12 @@
 body {
     margin: 0;
     background: url(img/GwentWallpaper.jpg) no-repeat center center fixed;
+    background-size: cover;
     color: red;
     font-family: 'Lobster', sans-serif;
     font-size: 28px;
     width: 100vw;
     height: 100vh;
-    background-size: cover;
 }
 a:link {
     color: #209781;
